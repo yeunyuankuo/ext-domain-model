@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F293BB792BBD4B67D4B53D9E98B0D0E59410BFEC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1CAA25F7BD4FA895CFC5346A161668C2B18121A9" : 9223372036854775807,
+    "F293BB792BBD4B67D4B53D9E98B0D0E59410BFEC" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "EF39384C-4379-4F72-8999-43BED49D9C62",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1CAA25F7BD4FA895CFC5346A161668C2B18121A9" : "",
+    "F293BB792BBD4B67D4B53D9E98B0D0E59410BFEC" : "ext-domain-model\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SimpleDomainModel",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SimpleDomainModel.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/yeunyuankuo\/helloios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1CAA25F7BD4FA895CFC5346A161668C2B18121A9"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/yeunyuankuo\/ext-domain-model.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F293BB792BBD4B67D4B53D9E98B0D0E59410BFEC"
+    }
+  ]
+}
